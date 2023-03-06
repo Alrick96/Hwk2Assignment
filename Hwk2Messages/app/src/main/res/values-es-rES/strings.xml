@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola/Adios</string>
+    <string name="text_username">Nombre de usuario</string>
+    <string name="text_Password">Contrasena </string>
+    <string name="buttion_login">Iniciar sesion </string>
+    <string name="usernameHint">Nombre de usuario</string>
+    <string name="passwordHint">Contrasena</string>
+    <string name="loginFail">Lo sentimos, sus credenciales son incorrectas.</string>
+
+    <string name="hello_Buttion">Saludo</string>
+    <string name="hello_Buttion_Message">Hola</string>
+    <string name="goodbye_Buttino">Adios</string>
+    <string name="goodbye_Buttion_Message">Hasta luego</string>
+    <string name="text_name">Nombre </string>
+    <string name="city_name">Ciudad </string>
+    <string name="Show_Buttion">Mostrar Ciudad </string>
+    <string name="language">Espanol</string>
+</resources>

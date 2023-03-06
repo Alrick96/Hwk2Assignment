@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bonjour/Au Revoir</string>
+    <string name="text_username">Nom d’utilisateur</string>
+    <string name="text_Password">Mot de passe</string>
+    <string name="buttion_login">S’identifier</string>
+    <string name="usernameHint">Nom d’utilisateur</string>
+    <string name="passwordHint">Mot de passe</string>
+    <string name="loginFail">Désolé, vos informations d’identification sont incorrectes</string>
+
+    <string name="hello_Buttion">Salutation</string>
+    <string name="hello_Buttion_Message">Bon jour</string>
+    <string name="goodbye_Buttino">Au revoir</string>
+    <string name="goodbye_Buttion_Message">A plus tard</string>
+    <string name="text_name">Prenom</string>
+    <string name="city_name">Ville</string>
+    <string name="Show_Buttion">Afficher La Ville</string>
+    <string name="language">Francais</string>
+</resources>

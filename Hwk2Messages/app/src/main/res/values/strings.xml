@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello/Goodbye</string>
+    <string name="text_username">Username</string>
+    <string name="text_Password">Password</string>
+    <string name="buttion_login">LOGIN</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginFail">Sorry your credentials are incorrect</string>
+
+    <string name="hello_Buttion">Greeting</string>
+    <string name="hello_Buttion_Message">Hello</string>
+    <string name="goodbye_Buttino">Goodbye</string>
+    <string name="goodbye_Buttion_Message">See you later</string>
+    <string name="text_name">Name</string>
+    <string name="city_name">City</string>
+    <string name="Show_Buttion">Show city</string>
+    <string name="language">English</string>
+
+</resources>
